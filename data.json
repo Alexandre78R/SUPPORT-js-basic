@@ -1,0 +1,50 @@
+[
+    {
+        "pseudo" : "Alexandre",
+        "password" : "alexandre",
+        "role" : "admin",
+        "level" : 10
+    },
+    {
+        "pseudo" : "Vincent",
+        "password" : "vincent",
+        "role" : "admin", 
+        "level" : 11
+    },
+    {
+        "pseudo" : "Charlie",
+        "password" : "charlie",
+        "role" : "user", 
+        "level" : 7
+    },
+    {
+        "pseudo" : "Van",
+        "password" : "van",
+        "role" : "user", 
+        "level" : 5
+    },
+    {
+        "pseudo" : "Mickael",
+        "password" : "eickael",
+        "role" : "user", 
+        "level" : 2
+    },
+    {
+        "pseudo" : "Erwan",
+        "password" : "erwan",
+        "role" : "user", 
+        "level" : 5
+    },
+    {
+        "pseudo" : "Nicos",
+        "password" : "nicos",
+        "role" : "user",  
+        "level" : 9
+    },
+    {
+        "pseudo" : "Erwan",
+        "password" : "erwan",
+        "role" : "user",
+        "level" : 6
+    }
+]
