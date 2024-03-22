@@ -7,7 +7,8 @@ let user = {};
 const connect = (pseudo, password) => {
 }
 
-connect("Alexandre", "alexandre");
+
+connect("pseudo", "password");
 
 
 //Function de Zone xp lvl 10 min (sinon message d'alert DANGER)
@@ -21,4 +22,4 @@ zoneXp10Min();
 const searchUser = (pseudo) => {
 }
 
-searchUser("nico")
+searchUser("pseudo")
