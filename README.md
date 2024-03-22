@@ -24,4 +24,4 @@ Voici un support JS Basic basé sur un mini jeu :
         - Si on ne trouve pas renvoyer un message : impossible de trouver un ou plusieurs user avec ce  ${pseudo}
 
 
-> **_NOTE:_** L'exercice est construit ses trois fonctions, mais n'exister pas à faire d'autre ! 
+> **_NOTE:_** L'exercice est construit sur ses trois fonctions, mais n'hésitez pas à en faire d'autre  pour pratiquer ! 
