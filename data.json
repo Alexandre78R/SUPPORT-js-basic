@@ -6,6 +6,12 @@
         "level" : 10
     },
     {
+        "pseudo" : "Alexander",
+        "password" : "alexander",
+        "role" : "user",
+        "level" : 5
+    },
+    {
         "pseudo" : "Vincent",
         "password" : "vincent",
         "role" : "admin", 
@@ -46,5 +52,11 @@
         "password" : "ludovic",
         "role" : "user",
         "level" : 6
+    },
+    {
+        "pseudo" : "adam",
+        "password" : "adam",
+        "role" : "user",
+        "level" : 4
     }
 ]
