@@ -54,7 +54,7 @@
         "level" : 6
     },
     {
-        "pseudo" : "adam",
+        "pseudo" : "Adam",
         "password" : "adam",
         "role" : "user",
         "level" : 4
