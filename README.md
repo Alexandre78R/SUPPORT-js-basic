@@ -1,6 +1,6 @@
 # Support JS Basic 
 
-## Context 
+## Contexte 
 Ce dépôt GitHub est conçu pour aider les débutants en développement web à revoir les bases du JavaScript à travers un jeu interactif.
 C'est une façon amusante et accessible d'apprendre les concepts essentiels du langage.
 
